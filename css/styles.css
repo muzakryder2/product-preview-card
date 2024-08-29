@@ -42,7 +42,7 @@ body {
 
 .card__image {
   width: 50%;
-  background-image: url('/images/image-product-desktop.jpg');
+  background-image: url('https://muzakryder2.github.io/product-preview-card/images/image-product-desktop.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -146,7 +146,7 @@ body {
   }
 
   .card__image {
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('https://muzakryder2.github.io/product-preview-card/images/image-product-mobile.jpg');
     height: 40%;
     width: 100%;
   }
